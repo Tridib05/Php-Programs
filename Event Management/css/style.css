@@ -1,0 +1,19 @@
+/* Minimal styles for demo */
+body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#f6f7fb;color:#222}
+.container{width:95%;max-width:1000px;margin:0 auto;padding:20px}
+.site-header{background:#2c3e50;color:#fff;padding:10px 0}
+.site-header a{color:#fff;text-decoration:none}
+.site-header h1{display:inline-block;margin:0}
+.site-header nav{float:right}
+.site-header nav a{color:#fff;margin-left:15px}
+.event{background:#fff;border:1px solid #e2e2e2;padding:15px;margin-bottom:12px;border-radius:4px}
+.event h2{margin-top:0}
+.form-row{margin-bottom:10px}
+label{display:block;margin-bottom:4px}
+input[type=text],input[type=email],textarea{width:100%;padding:8px;border:1px solid #ccc;border-radius:3px}
+button{background:#27ae60;color:#fff;border:none;padding:8px 12px;border-radius:3px;cursor:pointer}
+.alert{padding:10px;background:#e74c3c;color:#fff;border-radius:3px;margin-bottom:12px}
+.success{background:#27ae60}
+.table{width:100%;border-collapse:collapse}
+.table th,.table td{border:1px solid #ddd;padding:8px}
+.small{font-size:0.9em;color:#666}
