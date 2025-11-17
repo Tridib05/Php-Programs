@@ -1,0 +1,6 @@
+body { background: #f8f9fa; }
+.list-group-item img.cand-photo { max-width: 120px; max-height: 90px; object-fit:cover; margin-right:12px; }
+.vote-item { display:flex; align-items:flex-start; gap:12px; }
+.progress { background:#e9ecef }
+.navbar-brand { font-weight:700 }
+.container { max-width:1100px }
