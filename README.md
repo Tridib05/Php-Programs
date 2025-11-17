@@ -7,7 +7,7 @@ Each folder represents a different project demonstrating PHP concepts like form 
 
 ## 📂 Contents
 
-1.**Blog (Portfolio & CV)**
+1. **Blog (Portfolio & CV)**
    - Personal blog website that includes portfolio projects and an online CV
    - Features sections like About, Skills, Projects, and Contact form
    - Great for showcasing personal branding and web development skills
