@@ -1,0 +1,3 @@
+# Prevent PHP execution in uploads folder
+php_flag engine off
+AddType text/plain .php .phtml .php3 .php4 .php5 .php6 .shtml .pht .phar .phps .pht .phtml .shtml
