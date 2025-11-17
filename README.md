@@ -45,8 +45,8 @@ Each folder represents a different project demonstrating PHP concepts like form 
    - Shows use of form handling, database operations, and basic security concepts
 
 10. **Session Management**
-   - Demonstrates how to use PHP sessions for maintaining user data
-   - Includes login, logout, and dashboard examples
+    - Demonstrates how to use PHP sessions for maintaining user data
+    - Includes login, logout, and dashboard examples
 
 ---
 
