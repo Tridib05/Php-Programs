@@ -7,34 +7,44 @@ Each folder represents a different project demonstrating PHP concepts like form 
 
 ## 📂 Contents
 
-1. **Calculator**
+1.**Blog (Portfolio & CV)**
+   - Personal blog website that includes portfolio projects and an online CV
+   - Features sections like About, Skills, Projects, and Contact form
+   - Great for showcasing personal branding and web development skills
+     
+2. **Calculator**
    - Simple PHP calculator project
    - Performs basic arithmetic operations: addition, subtraction, multiplication, and division
 
-2. **Demo**
+3. **Demo**
    - Contains sample PHP file for database connection by php admin
 
-3. **Ecommerce-Catalog**
+4. **Ecommerce-Catalog**
    - Mini project showing a simple e-commerce product catalog
    - Includes product listing, details, and basic navigation features
 
-4. **ElectricityBill**
+5. **ElectricityBill**
    - PHP program to calculate electricity bills based on user input
    - Uses conditional logic and dynamic calculation
 
-5. **EvenOdd**
+6. **EvenOdd**
    - Simple program to check whether a number is even or odd
    - Demonstrates form input and PHP condition handling
 
-6. **Event Management**
+7. **Event Management**
    - Event registration and management mini project
    - Includes form handling, data validation, and record display
 
-7. **Login**
+8. **Login**
    - PHP Login System
    - Includes form validation and redirection using sessions
 
-8. **Session Management**
+9. **Online Voting System**
+   - PHP-based online voting mini project
+   - Includes voter login, candidate list, vote submission, session handling, and result display
+   - Shows use of form handling, database operations, and basic security concepts
+
+10. **Session Management**
    - Demonstrates how to use PHP sessions for maintaining user data
    - Includes login, logout, and dashboard examples
 
